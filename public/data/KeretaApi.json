@@ -1,0 +1,29 @@
+{
+    "Kereta Api": 
+    [
+        {
+            "IdLoko": "312",
+            "Nama": "Penataran Dhoho",
+            "Rute": "Blitar-Surabaya",
+            "Lokomotif": "BB301",
+            "Daya": "1.010 kW",
+            "Tiket": "12.000 - 15.000",
+            "Tipe": "lokomotif diesel hidraulik",
+            "KecepatanMaks": "120 km/h",
+            "BahanBakar": "Solar",
+            "Pemilik": "PT Kereta Api Indonesia"
+        },
+        {
+            "IdLoko": "445",
+            "Nama": "Malioboro Express",
+            "Rute": "Purwokerto - Malang",
+            "Lokomotif": "CC201",
+            "Daya": "1.454 kW",
+            "Tiket": "140.000 - 250.000",
+            "Tipe": "lokomotif diesel elektrik",
+            "KecepatanMaks": "120 km/h",
+            "BahanBakar": "High-Speed Diesel",
+            "Pemilik": "PT Kereta Api Indonesia"
+        }
+    ]
+}
